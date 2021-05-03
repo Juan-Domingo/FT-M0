@@ -1,3 +1,6 @@
+body{
+    background-color: darkmagenta;
+}
 h1{
     color: aqua ;
 }
@@ -16,3 +19,6 @@ img{
     font-size: 18px;
     margin: 50px;
 }
+div{
+    background-image: url("https://th.bing.com/th/id/Rc90fb58d29048e44993e611826420592?rik=UQOd%2fsVYbKMDCw&pid=ImgRaw");
+    }
